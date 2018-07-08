@@ -34,7 +34,7 @@ p {
 .contactanos {
     background-color: rgb(255, 146, 133);
     margin-top: 5em;
-    margin-bottom: 5em;
+    margin-bottom: 1em;
     padding-bottom: 3em;
 }
 
@@ -53,4 +53,10 @@ label{
 
 .btn:hover{
   background-color: rgb(235, 181, 208);
+}
+
+.footer{
+  padding: 0%;
+  text-align: center;
+ 
 }
