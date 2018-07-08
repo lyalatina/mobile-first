@@ -1,37 +1,56 @@
-
-body{
-  font-family: 'Roboto Condensed', sans-serif;
-}
-h1{
-  font-size: 35px;
-  text-shadow: darkorange;
-  
+body {
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
-h2{
-  text-align: center;
-  margin-top: 3em;
-  margin-bottom: 2em;
-  
-  
+h1 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2.2em;
 }
 
-img{
-	width: 100%;
+h3 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 4em;
+    margin-bottom: 1em;
 }
 
 .img-fluid {
-  max-width: 100%;
-  height: auto;
-  border: 1em solid #FFF;
-  box-shadow: 0 0 0.25em 0 rgba(50, 50, 50, 0.2);
+    max-width: 100%;
+    height: auto;
+    border: 1em solid #FFF;
+    box-shadow: 0 0 0.25em 0 rgba(50, 50, 50, 0.2);
+    padding-left: 0em;
 }
 
-  p{
+p {
     margin-top: 1em;
     font-size: 15px;
     color: rgb(29, 21, 21);
-  }
+}
 
+.contactanos {
+    background-color: rgb(255, 146, 133);
+    margin-top: 5em;
+    margin-bottom: 5em;
+    padding-bottom: 3em;
+}
+
+label{
+  font-size: 13px;
+  color: white;
+}
+
+.btn{
+  background-color: white;
+  border: gainsboro;
+  font-size: 13px;
+  color: rgb(117, 103, 103);
   
+}
 
+.btn:hover{
+  background-color: rgb(235, 181, 208);
+}
