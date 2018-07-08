@@ -4,10 +4,16 @@ body {
 
 h1 {
     font-size: 30px;
+    text-shadow: 1px 2px rgb(85, 77, 77);
     color: white;
     text-align: center;
-    margin-top: 2em;
-    margin-bottom: 2.2em;
+}
+
+h2 {
+    margin-bottom: 0.8em;
+    color: white;
+    text-align: center;
+    margin-top: 1em;
 }
 
 h3 {
@@ -38,25 +44,23 @@ p {
     padding-bottom: 3em;
 }
 
-label{
-  font-size: 13px;
-  color: white;
+label {
+    font-size: 13px;
+    color: white;
 }
 
-.btn{
-  background-color: white;
-  border: gainsboro;
-  font-size: 13px;
-  color: rgb(117, 103, 103);
-  
+.btn {
+    background-color: white;
+    border: gainsboro;
+    font-size: 13px;
+    color: rgb(117, 103, 103);
 }
 
-.btn:hover{
-  background-color: rgb(235, 181, 208);
+.btn:hover {
+    background-color: rgb(235, 181, 208);
 }
 
-.footer{
-  padding: 0%;
-  text-align: center;
- 
+.footer {
+    padding: 0%;
+    text-align: center;
 }
